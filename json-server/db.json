@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "name": "guest",
+      "email": "12345"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Пётр" ,
+      "email": "qwwerty@gmail.com",
+      "isDisabled": true
+    },
+    {
+      "id": 2,
+      "name": "Вася" ,
+      "email": "qwwerty@gmail.com",
+      "isDisabled": true
+    }
+  ]
+}
